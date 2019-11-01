@@ -49,7 +49,7 @@ int main()
   print(test_str2, avg(test2, 3));
  
 
-  cout << "Введи три предложения, по одному в строке:\n";
+  cout << "Enter three sentences, one per line:\n";
   cout << "avg == " << avg(cin, 3) << endl;
   
   system("pause");
